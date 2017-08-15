@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Amit Nandi activity</title>
+  <link href="https://git.ng.bluemix.net/amitnandileo.atom" rel="self" type="application/atom+xml"/>
+  <link href="https://git.ng.bluemix.net/amitnandileo" rel="alternate" type="text/html"/>
+  <id>https://git.ng.bluemix.net/amitnandileo</id>
+  <updated>2017-08-12T12:39:19Z</updated>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-12:2129239</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commits/deploy-ibm-yp-eu-gb-bigwiz-india-20170812-123917"/>
+  <title>Amit Nandi pushed new project tag deploy-ibm-yp-eu-gb-bigwiz-india-20170812-1...</title>
+  <updated>2017-08-12T12:39:19Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Amit Nandi</strong>
+<a href="/amitnandileo/AmitNandi420/commit/de4c51c3c063a0e34e40841b65bab2afba067642">(#de4c51c3)</a>
+<i>
+at
+12 Aug 12:36
+</i>
+</p>
+<blockquote><p dir="auto">added a Readme.</p></blockquote>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-12:2129238</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commit/de4c51c3c063a0e34e40841b65bab2afba067642"/>
+  <title>Amit Nandi commented on commit de4c51c3 at Amit Nandi / WizChatApp</title>
+  <updated>2017-08-12T12:39:19Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p dir="auto">Bluemix <a href="https://console-regional.ng.bluemix.net/devops/toolchains/b91444f7-f34b-4c57-9841-98fe96ca1c40" title="AmitNandi420" rel="nofollow noreferrer noopener" target="_blank">toolchain</a>: <a href="https://console-regional.ng.bluemix.net/devops/pipelines/41976f69-0869-486e-af6e-55c7f0e18660" title="AmitNandi420" rel="nofollow noreferrer noopener" target="_blank">Delivery Pipeline</a> deployed <a href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commits/deploy-ibm-yp-eu-gb-bigwiz-india-20170812-123917" title="deploy-ibm-yp-eu-gb-bigwiz-india-20170812-123917">AmitNandi420</a> to <a href="https://console.bluemix.net/apps/176ab078-b534-4907-8801-f498b21f6153?env_id=ibm:yp:eu-gb" title="ibm:yp:eu-gb:bigwiz:india" rel="nofollow noreferrer noopener" target="_blank">india</a>, including this commit</p>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-12:2129216</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commit/de4c51c3c063a0e34e40841b65bab2afba067642"/>
+  <title>Amit Nandi pushed to project branch master at Amit Nandi / WizChatApp</title>
+  <updated>2017-08-12T12:36:39Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Amit Nandi</strong>
+<a href="/amitnandileo/AmitNandi420/commit/de4c51c3c063a0e34e40841b65bab2afba067642">(#de4c51c3)</a>
+<i>
+at
+12 Aug 12:36
+</i>
+</p>
+<blockquote><p dir="auto">added a Readme.</p></blockquote>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-12:2129205</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commits/deploy-ibm-yp-eu-gb-bigwiz-india-20170812-123547"/>
+  <title>Amit Nandi pushed new project tag deploy-ibm-yp-eu-gb-bigwiz-india-20170812-1...</title>
+  <updated>2017-08-12T12:35:50Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Amit Nandi</strong>
+<a href="/amitnandileo/AmitNandi420/commit/d4626df65765f50adc021ac1eee9c5cafc9aec29">(#d4626df6)</a>
+<i>
+at
+12 Aug 12:33
+</i>
+</p>
+<blockquote><p dir="auto">Add changelog</p></blockquote>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-12:2129204</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commit/d4626df65765f50adc021ac1eee9c5cafc9aec29"/>
+  <title>Amit Nandi commented on commit d4626df6 at Amit Nandi / WizChatApp</title>
+  <updated>2017-08-12T12:35:49Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p dir="auto">Bluemix <a href="https://console-regional.ng.bluemix.net/devops/toolchains/b91444f7-f34b-4c57-9841-98fe96ca1c40" title="AmitNandi420" rel="nofollow noreferrer noopener" target="_blank">toolchain</a>: <a href="https://console-regional.ng.bluemix.net/devops/pipelines/41976f69-0869-486e-af6e-55c7f0e18660" title="AmitNandi420" rel="nofollow noreferrer noopener" target="_blank">Delivery Pipeline</a> deployed <a href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commits/deploy-ibm-yp-eu-gb-bigwiz-india-20170812-123547" title="deploy-ibm-yp-eu-gb-bigwiz-india-20170812-123547">AmitNandi420</a> to <a href="https://console.bluemix.net/apps/176ab078-b534-4907-8801-f498b21f6153?env_id=ibm:yp:eu-gb" title="ibm:yp:eu-gb:bigwiz:india" rel="nofollow noreferrer noopener" target="_blank">india</a>, including this commit</p>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-12:2129186</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commit/d4626df65765f50adc021ac1eee9c5cafc9aec29"/>
+  <title>Amit Nandi pushed to project branch master at Amit Nandi / WizChatApp</title>
+  <updated>2017-08-12T12:33:29Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Amit Nandi</strong>
+<a href="/amitnandileo/AmitNandi420/commit/d4626df65765f50adc021ac1eee9c5cafc9aec29">(#d4626df6)</a>
+<i>
+at
+12 Aug 12:33
+</i>
+</p>
+<blockquote><p dir="auto">Add changelog</p></blockquote>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-09:2103772</id>
+  <link href="https://git.ng.bluemix.net/amitnandileo/AmitNandi420/commits/master"/>
+  <title>Amit Nandi pushed new project branch master at Amit Nandi / WizChatApp</title>
+  <updated>2017-08-09T23:55:20Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>IBM Bluemix</strong>
+<a href="/amitnandileo/AmitNandi420/commit/c62651d291d2d5800af19f9e929cc6ba60074cc9">(#c62651d2)</a>
+<i>
+at
+09 Aug 23:55
+</i>
+</p>
+<blockquote><p dir="auto">Clone from zip</p></blockquote>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:git.ng.bluemix.net,2017-08-09:2103771</id>
+  <link href=""/>
+  <title>Amit Nandi created project Amit Nandi / WizChatApp</title>
+  <updated>2017-08-09T23:55:17Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a3d8b939d80c928ad48a300c3ab9c436?s=80&amp;d=identicon"/>
+  <author>
+    <name>Amit Nandi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+</feed>
